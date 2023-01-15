@@ -25,7 +25,9 @@ This repository is composed of
 * one main file - Stack_Overflow_Survey_Trend    
 * the module of mozchart to create mosaic charts for the part of trend analyses  
 * database folder which can also be downloaded from   
-  https://insights.stackoverflow.com/survey
+  https://insights.stackoverflow.com/survey  
+  ('survey_results_schema_2022.csv' is out of database folder to avoid possible error  
+    in downloading files via Github)  
 
 ## Points to note
 
