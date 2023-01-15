@@ -107,6 +107,12 @@ In terms of age,
 
 For more reading, please find my blog post https://jaeyoun-chang.github.io/ucity1/  
 
-## License
+## Data source / Acknowledgements / License
+* Data source
+  site of Stack Overflow Annual Developer Survey
+  https://insights.stackoverflow.com/survey  
 
-This repository is with MIT License.
+* Acknowledgements
+  Dataset credit
+
+* This repository is with MIT License.
