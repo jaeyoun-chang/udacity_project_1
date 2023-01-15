@@ -105,6 +105,8 @@ In terms of age,
 * 'javascript' and 'html/css' are losing shares in all ages.  
 * 'sql' is becoming the language of older people with its share staying at 8%.
 
+For more reading, please find my blog post https://jaeyoun-chang.github.io/ucity1/  
+
 ## License
 
 This repository is with MIT License.
